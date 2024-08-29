@@ -1,0 +1,18 @@
+.heart-icon, .cart-icon {
+    position: absolute;
+    right: 30px; 
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    gap: 5px; 
+}
+
+.cart-icon {
+    right: 0;
+}
+
+.icon-count {
+    background-color: transparent; 
+    color: #000; 
+    font-size: 16px; 
+}
